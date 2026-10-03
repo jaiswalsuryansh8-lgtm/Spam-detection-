@@ -1,3 +1,4 @@
 # Spam-detection-
 This is my first repository...
-author-Suryansh jaiswal
+<\n>
+Author-Suryansh jaiswal
